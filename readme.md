@@ -1,21 +1,54 @@
+# Portfolio
 ### Ф.И.О.
 **Волков Вячеслав**
-### Курс
-**"Продвинутый курс по веб-разработке"**
+### Курс LoftSchool
+**Продвинутый курс по веб-разработке**
 ### Дата
 **13.01.2020**
+### Проект
+**Portfolio. Autumn**
 
-# Учебный шаблон проекта Portfolio
+#### FrontEnd
+* Pug
+* PostCSS
+* JavaScript
+* Vue
 
-> Перед установкой зависимостей и запуском проекта убедитесь, что у вас установлена [последняя версия Node.js & NPM](https://nodejs.org/en/download/current/), а так же 
+#### Workflow
+* Webpack
+* Git
+* Terminal
+* NPM, Yarn
+
+#### Код на Vue.js
+* Admin-panel
+* Slider
+* Vue Flickity slider
+
+#### Код на нативном JavaScript
+* Parallax
+* Smooth Scrolling
+* Popup
+* Preloader
+
+#### Тестирование JS-кода
+* WebdriverIO
+* Jest
+
+### Данные для входа в админ-панель
+$ login: test-admin
+$ password: 123456
+
+## Посмотреть [SITE](https://volkovva.github.io/portfolio/)
+![portfolio](screenshots/demo.png "portfolio")
+![portfolio](screenshots/demo2.png "portfolio")
+
+## Посмотреть [SITE](https://volkovva.github.io/portfolio/admin)
+![portfolio](screenshots/demo3.png "portfolio")
+![portfolio](screenshots/demo4.png "portfolio")
+
+> Перед установкой зависимостей и запуском проекта убедитесь, что у вас установлена [последняя версия Node.js & NPM](https://nodejs.org/en/download/current/), а так же
 [последняя версия Yarn](https://yarnpkg.com/ru/docs/install)
-
-##  Чтобы развернуть проект необходимо:
-```sh
-$ git clone https://github.com/volkovVA/portfolio.git
-$ cd portfolio
-$ yarn
-```
 
 ## Скрипты package.json:
 
@@ -29,7 +62,6 @@ $ yarn
 ```sh
 $ npm run имя_скрипта
 ```
-
 ##### Либо:
 ```sh
 $ yarn имя_скрипта
