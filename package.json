@@ -24,7 +24,7 @@
     "@wdio/mocha-framework": "^5.18.7",
     "@wdio/spec-reporter": "^5.18.7",
     "@wdio/sync": "^5.18.7",
-    "acorn": "^6.0.5",
+    "acorn": "^6.4.1",
     "acorn-dynamic-import": "^4.0.0",
     "autoprefixer": "^9.4.8",
     "babel-loader": "^8.0.5",
