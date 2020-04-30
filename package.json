@@ -71,7 +71,7 @@
     "babel-jest": "^25.1.0",
     "dotenv-webpack": "^1.7.0",
     "inputmask": "^5.0.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "normalize.css": "^8.0.1",
     "promptly": "^3.0.3",
     "pug": "^2.0.3",
