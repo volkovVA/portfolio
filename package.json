@@ -67,7 +67,7 @@
   "dependencies": {
     "@saeris/vue-spinners": "^1.0.8",
     "@wdio/cli": "^5.18.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-jest": "^25.1.0",
     "dotenv-webpack": "^1.7.0",
     "inputmask": "^5.0.3",
